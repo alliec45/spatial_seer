@@ -1,6 +1,6 @@
 # XR Defense
 
-This repository hosts the BURGS Project "Exploting Power Telemetry to Expose XR User Environmental Information". This repository hosts all of the team's work to investigate how performance indicators can be exploited to expose an XR User's location type. The project began with the an AR headset called the Magic Leap 2. We are expanding the work to alternative headsets and XR design. 
+This repository hosts the BURGS Project "Spatial Seer: Exploiting Telemetry to Expose XR User Environment". This repository hosts the team's work to investigate how performance metrics can be exploited to expose an XR user's location type. The project utilizes the Magic Leap 2 and Meta Quest 3. We used Unity to develop our entrypoint for our cyber attack. 
 
 Author(s): 
 Allie Craddock (alliec45@vt.edu) | 
