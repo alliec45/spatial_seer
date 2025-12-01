@@ -66,7 +66,6 @@ Claire Shin (cshinh@vt.edu)
 - [Matplotlib Library](https://matplotlib.org/stable/index.html)
 
 # Future Goals: 
-1. Cross Validate across alternative profilers + VR headsets
-2. Develop more robust dataset
-3. Optimize SVM 
-4. Write workshop paper for Fall 2025 conferences 
+1. Develop event-based API to automatically export data 
+2. Cross-validate findings for Mixed Reality and Virtual Reality programs
+3. Establish more room types for our machine learning models
