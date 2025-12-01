@@ -4,8 +4,8 @@ This repository hosts the BURGS Project "Spatial Seer: Exploiting Telemetry to E
 
 Author(s): 
 Allie Craddock (alliec45@vt.edu) | 
-Casie Peng (casiepeng@vt.edu) | 
 Gayatri Kamtala (gayatrikam@vt.edu) |
+Casie Peng (casiepeng@vt.edu) | 
 Claire Shin (cshinh@vt.edu)
 
 # Repository Structure 
